@@ -10,3 +10,5 @@
 - 📫 How to reach me: [Instagram](https://www.instagram.com/developer.kw/), [Twitter](https://twitter.com/a_munaikh) <- BTW I hate twitter
 - ⚡️ Fun fact: Flutter > React Native 
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=munaikh&count_private=true&theme=tokyonight&show_icons=true)
