@@ -6,7 +6,7 @@
 - 💻 Dart, Swift, Python, C++, (Flutter, SwiftUI, UIKit)
 - 💙 Flutter
 - 💬 Ask me about anything
-- 📫 How to reach me: [Instagram](https://www.instagram.com/a_almunaikh/), [Twitter](https://twitter.com/a_munaikh) <- BTW I hate twitter
+- 📫 How to reach me: [Instagram](https://www.instagram.com/a_almunaikh/), [Twitter](https://twitter.com/a_munaikh)
 - ⚡️ Fun fact: Flutter > React Native 
 
 
