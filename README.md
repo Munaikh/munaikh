@@ -1,6 +1,6 @@
 
 
-### Hi there, My name is Abdullah from Kuwait 🇰🇼 👋
+### Hi there, my name is Abdullah from Kuwait 🇰🇼 👋
 
 - 🎓 University of Glasgow
 - 💻 Dart, Swift, Python (Flutter, SwiftUI, UIKit)
