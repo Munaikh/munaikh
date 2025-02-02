@@ -6,7 +6,6 @@
 - 💻 Dart, Swift, Python (Flutter, SwiftUI, UIKit)
 - 💙 Flutter
 - 💬 Ask me about anything
-- 📫 How to reach me: [Instagram](https://www.instagram.com/a_almunaikh/), [Twitter](https://twitter.com/a_munaikh)
 - ⚡️ Fun fact: I love pizza 🍕 
 
 
